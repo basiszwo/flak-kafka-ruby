@@ -1,0 +1,6 @@
+---
+topic: flak-example
+zookeepers:
+  - kafka-1.flak.one:9092
+  - kafka-2.flak.one:9092
+  - kafka-3.flak.one:9092
